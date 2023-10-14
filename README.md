@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victoria2217
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning HTML, CSS, bootstrap, tailwind CSS, react and JavaScript
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me Email:Anichioma309@gmail.com
 
 <!---
